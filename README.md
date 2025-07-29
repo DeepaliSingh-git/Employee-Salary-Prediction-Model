@@ -19,9 +19,4 @@ This project predicts whether an individual's income exceeds $50K/year using the
 - Gradio for interface
 - Joblib for model serialization
 
-## 🚀 How to Run
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/salary-prediction-app.git
-   cd salary-prediction-app
